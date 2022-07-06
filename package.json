@@ -42,6 +42,7 @@
     "hammerjs": "^2.0.8",
     "http-proxy": "^1.18.1",
     "ini": "^1.3.8",
+    "netlify-cli": "^10.7.1",
     "ng-navigator-share": "^1.0.3",
     "node-forge": "^1.0.0",
     "rxfire": "^6.0.3",

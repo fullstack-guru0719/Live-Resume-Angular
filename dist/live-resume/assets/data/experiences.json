@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "position": 1,
+        "startAt": "07-01-2018",
+        "endAt": "05-30-2020",
+        "companyName": "FairFly",
+        "website": "https://www.fairfly.com/",
+        "logo": "assets/template/experience/logo/FairFly-logo.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Tel Aviv",
+                "country": "Israel",
+                "role": "Front-end Lead",
+                "description": "<b>Fair Fly</b> is corporate travel management insights are an end-to-end solution for a data-driven travel program.<br><br>At <i>Fair Fly</i>, Documented all concerns and incidents in Github, Jira Confluence and reported them to the R&D department and lead and conducted in depth analysis of business performance versus business goals"
+            }
+        ],
+        "technologies": [
+            "React.Js", "Next.Js", "Ant Design", "Apollo GraphQL", "CSS", "CSS3", "Javascript","CMS"
+        ],
+        "medias": [
+            {
+                "icon": "facebook",
+                "title": "Facebook FairFly",
+                "http": "https://www.facebook.com/FairFlyProducts/"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/uberaba.jpg"
+    },
+    {
+        "id": 2,
+        "position": 2,
+        "startAt": "06-01-2020",
+        "endAt": "12-30-2020",
+        "companyName": "Starstock",
+        "website": "https://www.starstock.com/",
+        "logo": "assets/template/experience/logo/Starstock-logo.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "New York",
+                "country": "United States",
+                "role": "Full-stack Engineer",
+                "description": "<b>Starstock</b> is an enormous combination of ecommerce & marketplace platforms for the Food & Drinks industry which was incorporated in 2012<br><br>At <i>Starstock</i> I have worked to Build a common components library as a Github submodule which boosted the performance and productivity of the team double"
+            }
+        ],
+        "technologies": [
+            "Node/Express", "Next.Js", "Material UI", "RESTful API", "AWS serverless", "CSS3", "Javascript","ReactJs"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn StarStock ",
+                "http": "https://www.linkedin.com/company/starstock-inc"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook StarStock",
+                "http": "https://www.facebook.com/starstockmarket/"
+            },
+            {
+                "icon": "instagram",
+                "title": "Instagram StarStock",
+                "http": "https://www.instagram.com/starstock/?hl=en"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/rio.jpg"
+    },
+    {
+        "id": 3,
+        "position": 3,
+        "startAt": "01-01-2021",
+        "endAt": "01-30-2022",
+        "companyName": "Ideamarket Lab",
+        "website": "#",
+        "logo": "assets/template/experience/logo/deevo-logo.png",
+        "internationalizations": [
+            {
+                "language": "en",
+                "city": "Los Angeles",
+                "country": "United States",
+                "role": "Front-end Lead",
+                "description": "<b>Ideamarket Lab</b> use investment to establish credibility for ideas and narratives without trusting a centralized third party.<br><br>At <i>Ideamarket Lab</i>, I Spearheaded the web3.js integration, and Migrated the front-end project to use Next.js from React.js "
+            }
+        ],
+        "technologies": [
+            "Next.Js", "Tailwindcss", "Web3.js", "GraphQL"
+        ],
+        "medias": [
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Ideamarket Lab",
+                "http": "https://ru.linkedin.com/company/ideamarket"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/sao-paulo.jpg"
+    },
+    {
+        "id": 4,
+        "position": 4,
+        "startAt": "02-01-2022",
+        "endAt": "05-30-20122",
+        "companyName": "Six Feet Up, Inc",
+        "logo": "assets/template/experience/logo/SixFeetUp-logo.png",
+        "internationalizations": [
+           
+            {
+                "language": "en",
+                "city": "Dr, Fishers",
+                "country": "United States",
+                "role": "Front-end Engineer",
+                "description": "<b>Six Feet Up, Inc</b> is a certified WEB software company, which does Python and cloud expert consulting that helps innovative tech leaders to build apps faster, simplify Big Data by leveraging modern technologies and processes to move their companies forward.<br><br>At <i>Six Feet Up, Inc</i>, I Worked as a senior frontend engineer for consulting Joor frontend team, a data analytics company that connects brands and retailers globally to deliver seamless digital wholesale management from connection to payment, with 8,600 brands on the platform."
+            }
+        ],
+        "technologies": [
+            "Redux", "React.JS", "Hyperion GraphQL", "Docker", "React", "React Native", "Stripe/Reach payment API"
+        ],
+        "medias": [
+            {
+                "icon": "youtube",
+                "title": "YouTube Six Feet Up, Inc.",
+                "http": "https://www.youtube.com/user/sixfeetupcorp"
+            },
+            {
+                "icon": "facebook",
+                "title": "Facebook Six Feet Up, Inc.",
+                "http": "https://www.facebook.com/sixfeetup/"
+            },
+            {
+                "icon": "linkedin",
+                "title": "LinkedIn Six Feet Up, Inc.",
+                "http": "https://www.linkedin.com/company/sixfeetup"
+            }
+        ],
+        "backgroundUrl": "assets/template/experience/utrecht.jpg"
+    }
+]
